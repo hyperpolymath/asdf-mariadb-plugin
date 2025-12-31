@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Philosophical overlay: https://github.com/hyperpolymath/palimpsest-licence
 set -euo pipefail
 readonly REPO="MariaDB/server"
 export TOOL_NAME="mariadb" TOOL_CMD="mariadb"
